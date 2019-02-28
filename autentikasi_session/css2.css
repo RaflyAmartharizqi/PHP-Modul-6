@@ -1,0 +1,14 @@
+body{
+    background: red;
+
+}
+h1{
+    font-size: 30px;
+    font-family: 'Segoe UI';
+    color: white;
+}
+div.rek{
+    width: 50%;
+    height: 50%;
+    background: #4444;
+}
